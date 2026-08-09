@@ -26,7 +26,7 @@ Step-by-step walkthroughs, terminal methodologies, and key takeaways for the Ban
 
 | Level Range        | Description / Key Focus                                                       | Walkthrough Link                                                                                  |
 | :----------------- | :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| **Level 0**        | Introduction to wargames, bandit, login using (`ssh`)                         | [View Notes](https://github.com/rs-dot369/linux-vault/blob/main/overthewire-bandit/Level0.md))    |
+| **Level 0**        | Introduction to wargames, bandit, login using (`ssh`)                         | [View Notes](https://github.com/rs-dot369/linux-vault/blob/main/overthewire-bandit/Level0.md)     |
 | **Level 0 to 1**   | Introduction to file searching (`find`) and exploring local directories       | [View Notes](https://github.com/rs-dot369/linux-vault/blob/main/overthewire-bandit/Level0-1.md)   |
 | **Level 20 to 21** | Working with network sockets, netcat (`nc`), and local port communication     | [View Notes](https://github.com/rs-dot369/linux-vault/blob/main/overthewire-bandit/Level20-21.md) |
 | **Level 21 to 22** | Inspecting cron jobs (`/etc/cron.d/`) and automated system scripts            | [View Notes](https://github.com/rs-dot369/linux-vault/blob/main/overthewire-bandit/Level21-22.md) |

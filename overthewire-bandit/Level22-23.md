@@ -68,7 +68,7 @@ bandit22@bandit:~$ ls -al /usr/bin/cronjob_bandit23.sh
 -rwxr-x--- 1 bandit23 bandit22 211 Jun 24 14:58 /usr/bin/cronjob_bandit23.sh
 ```
 
-we have read and execute permission on /usr/bin/cronjob_bandit23.sh
+We have read and execute permission on /usr/bin/cronjob_bandit23.sh
 
 ```
 bandit22@bandit:~$ cat /usr/bin/cronjob_bandit23.sh 

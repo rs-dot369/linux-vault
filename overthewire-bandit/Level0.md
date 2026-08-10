@@ -7,7 +7,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 ## Commands you may need to solve this level
 
 [ssh](https://manpages.ubuntu.com/manpages/noble/man1/ssh.1.html)
-## Solution Steps
+## Solution Steps/Methodology
 
 Login as bandit0 on **bandit.labs.overthewire.org**, on port 2220
 

@@ -1,4 +1,4 @@
-# Bandit Level 20 → Level 21 Write-up
+# Bandit Level 20 → Level 21 
 
 ## Level Goal
 There is a setuid binary in the home directory (`suconnect`) that connects to `localhost` on a specified port, reads a line of text, and compares it to the previous level's password. If correct, it outputs the password for the next level (`bandit21`).
@@ -8,7 +8,7 @@ There is a setuid binary in the home directory (`suconnect`) that connects to `l
 ## Commands you may need to solve this level
 
 ssh, nc, cat, bash, screen, tmux, Unix ‘job control’ (bg, fg, jobs, &, CTRL-Z, …)
-## Solution Steps
+## Solution Steps/Methodology
 
 ### 1. Set up a local netcat listener
 Start a background listener on a port (e.g., `8080`) that pipes the current level's password (`bandit20`) when a connection is made:

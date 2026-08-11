@@ -73,7 +73,7 @@ bandit4@bandit:~$ more /home/bandit4/inhere/-*
 
 ```
 * But this is not a good idea, what if we have 20 files or more files, this process it time taking.
-* We can also use `file` to determine the types of files in `inhere directory` to determine the file which we need.
+* We can also use `file` to determine the types of files in `inhere` directory to determine the file which we need.
 ```
 bandit4@bandit:~$ file /home/bandit4/inhere/*
 /home/bandit4/inhere/-file00: data

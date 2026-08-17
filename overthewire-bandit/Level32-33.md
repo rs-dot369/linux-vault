@@ -98,7 +98,6 @@ bandit33@bandit:~$ whoami
 bandit33
 ```
 - We got the password of bandit33, next level.
-- 
 ## Additional Work
 ### Method 1: The Shell Variable Bypass (`$0`)
 

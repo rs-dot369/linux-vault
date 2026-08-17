@@ -45,7 +45,7 @@ Options:
 - `base64` is installed, we can proceed without any issue.
 ```
 bandit10@bandit:~$ cat data.txt | base64 -d
-The password is pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
+The password is REDACTED
 bandit10@bandit:~$ 
 ```
 - We got the password for next level, bandit11.

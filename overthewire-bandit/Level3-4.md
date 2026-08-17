@@ -45,7 +45,7 @@ ls: cannot open directory '/home/bandit5/inhere/': Permission denied
 * We have to read `...Hiding-From-You` 
 ```
 bandit3@bandit:~$ cat /home/bandit3/inhere/...Hiding-From-You 
-xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq
+REDACTED
 bandit3@bandit:~$ 
 ```
 * We got the password for the next level, bandit4.

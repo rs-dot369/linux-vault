@@ -42,7 +42,7 @@ Ncat: SSL connection to 127.0.0.1:30001.
 Ncat: SHA-1 fingerprint: 323A F3B1 4FC7 1B0F F71A 1931 8FF3 62A1 49AC 735A
 pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
 Correct!
-kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
+REDACTED
 
 Ncat: 33 bytes sent, 43 bytes received in 17.86 seconds.
 ```

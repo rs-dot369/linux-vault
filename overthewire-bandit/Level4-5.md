@@ -68,7 +68,7 @@ bandit4@bandit:~$ more /home/bandit4/inhere/-*
 ::::::::::::::
 /home/bandit4/inhere/-file07
 ::::::::::::::
-6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+REDACTED
 ::::::::::::::
 
 ```
@@ -90,7 +90,7 @@ bandit4@bandit:~$ file /home/bandit4/inhere/*
 * Now we can directly read the `/home/bandit4/inhere/-file07`, as ASCII encoding is human-readable.
 ```
 bandit4@bandit:~$ cat /home/bandit4/inhere/-file07
-6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
+REDACTED
 ```
 * We got the password for next level, bandit5.
 ## Key Takeaways / Concepts

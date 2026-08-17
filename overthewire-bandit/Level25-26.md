@@ -168,7 +168,7 @@ total 20
 -rwsr-x--- 1 bandit27 bandit26 14880 Jun 24 14:59 bandit27-do
 -rw-r----- 1 bandit26 bandit26   258 Jun 24 14:59 text.txt
 bandit26@bandit:~$ cat /etc/bandit_pass/bandit26
-jHdv2ELQhT22BkprMNDjybZDAkw1zeBJ
+REDACTED
 ```
 - We got the password of bandit26, next level.
 ## Key Takeaways / Concepts

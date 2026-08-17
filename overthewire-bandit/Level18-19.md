@@ -57,7 +57,7 @@ drwxr-xr-x 150 root     root     4096 Jun 24 15:02 ..
 -rw-r--r--   1 root     root      807 Feb 13 12:16 .profile
 -rw-r-----   1 bandit19 bandit18   33 Jun 24 14:59 readme
 $ cat readme
-KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
+REDACTED
 $ whoami
 bandit18
 ```
@@ -78,7 +78,7 @@ bandit18
 
 backend: gibson-0
 bandit18@bandit.labs.overthewire.org's password: 
-KpsOfPkcP7i1FlIExk2QEjyt6dw8dxZI
+REDACTED
 ```
 
 - When tried to get an interactive shell within pseudo shell,

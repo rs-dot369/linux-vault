@@ -92,7 +92,7 @@ Usage: /bin/ar [emulation options] [-]{dmpqrstx}[abcDfilMNoOPsSTuvV] [--plugin <
 $ whoami
 bandit33
 $ cat /etc/bandit_pass/bandit33
-u4P2CyPOwPGLe94RdD9Uo2FxFwvnFswM
+REDACTED
 $ python3 -c 'import pty; pty.spawn("/bin/bash")'
 bandit33@bandit:~$ whoami
 bandit33

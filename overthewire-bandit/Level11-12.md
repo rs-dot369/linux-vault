@@ -33,7 +33,7 @@ bandit11@bandit:~$
 ```
 - Just use `ROT13` operation to make the recipe on `cyberchef`.
 ```
-The password is GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
+The password is REDACTED
 ```
 - We got the password for next level, bandit12.
 ## Key Takeaways / Concepts

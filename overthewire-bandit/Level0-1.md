@@ -43,7 +43,7 @@ please inform the instructor about the rules as well and encourage them to
 
 contribute to the OverTheWire community so we can keep these games free!
 
-The password you are looking for is: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+The password you are looking for is: REDACTED
 ```
 
 Level 1 is complete.

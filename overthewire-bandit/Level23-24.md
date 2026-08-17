@@ -123,7 +123,7 @@ bandit23@bandit:/var/spool/bandit24/foo$ ls -al /tmp/safe_folder/bandit24pass
 /tmp/safe_folder/bandit24pass
 
 bandit23@bandit:/var/spool/bandit24/foo$ cat /tmp/safe_folder/bandit24pass 
-hVQMk3lJNsmQ7VF3ubyrNNBom7BOgVXv
+REDACTED
 ```
 * We have now password for next level, bandit24.
 

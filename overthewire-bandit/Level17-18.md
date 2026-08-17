@@ -19,7 +19,7 @@ total 8
 -rw-r----- 1 bandit18 bandit17 3300 Jun 24 14:59 passwords.old
 bandit17@bandit:~$ diff passwords.new passwords.old 
 42c42
-< OQxXZjELndr90zuhOTDYBEomI0SZITXI				
+< REDACTED				
 ---
 > icUh23IUytZLIYhcCaXL18agiSIqymBc
 

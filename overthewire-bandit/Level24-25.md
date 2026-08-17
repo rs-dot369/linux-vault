@@ -81,7 +81,7 @@ Wrong! Please enter the correct current password and pincode. Try again.
 ...
 ...
 Correct!
-The password of user bandit25 is SoHfqMOEqIX2IYKVciZxvgpR9a2Djx4P
+The password of user bandit25 is REDACTED
 ```
 * We get the password for next level, bandit25.
 ## Additional Work
@@ -92,7 +92,7 @@ Connection to 127.0.0.1 30002 port [tcp/*] succeeded!
 bandit24@bandit:~$ cat /tmp/bandit24/output.txt | grep -v "Wrong"
 I am the pincode checker for user bandit25. Please enter the password for user bandit24 and the secret pincode on a single line, separated by a space.
 Correct!
-The password of user bandit25 is SoHfqMOEqIX2IYKVciZxvgpR9a2Djx4P
+The password of user bandit25 is REDACTED
 
 bandit24@bandit:~$ 
 ```

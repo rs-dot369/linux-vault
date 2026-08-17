@@ -56,7 +56,7 @@ Nmap done: 1 IP address (1 host up) scanned in 124.50 seconds
 - We have found the correct port 31790, now we can submit the password of bandit16 to this port.
 ```
 bandit16@bandit:~$ ncat --ssl 127.0.0.1 31790
-kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
+REDACTED
 Correct!
 -----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn

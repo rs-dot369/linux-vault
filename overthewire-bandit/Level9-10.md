@@ -34,7 +34,7 @@ bandit9@bandit:~$ strings /home/bandit9/data.txt | grep "=="
 cL0========== the
 ========== password
 >========== is
-R========== B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
+R========== REDACTED
 bandit9@bandit:~$ 
 ```
 - We got the password for next level, bandit9.

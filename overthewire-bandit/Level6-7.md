@@ -24,7 +24,7 @@ bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null -exe
 * Content of `/var/lib/dpkg/info/bandit7.password`
 ```
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
-Bmnnvf82KzQlfxgAI2d1zYbr1u9pr3E3
+REDACTED
 ```
 * We got the password for next level, bandit7.
 ## Key Takeaways / Concepts

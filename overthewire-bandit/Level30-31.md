@@ -81,7 +81,7 @@ blob
 ```
 ┌──(kali㉿kali)-[~/Desktop/overthewire/repo30-31]
 └─$ git cat-file -p 6a76bc87a774031428feb5cc910568293c335545
-82NkymblpGBYmIXG6ZQ8YldBYstHpfUf
+REDACTED
 ```
 - We got the password of bandit31, next level.
 ## Additional Work

@@ -117,7 +117,7 @@ This is the file in /tmp, 8ca319486bfbbc3663ea0fbe81326349, that stores the pass
 
 ```
 bandit22@bandit:~$ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
-gKXDTAXnIz3OBxiPjRZ2uqutUlPZrBsw
+REDACTED
 ```
 
 Using this password to login as bandit23, just to verify if this password is correct or not.

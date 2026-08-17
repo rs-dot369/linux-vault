@@ -16,7 +16,7 @@ bandit14@bandit:~$ nc -v 127.0.0.1 30000
 Connection to 127.0.0.1 30000 port [tcp/*] succeeded!
 aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
 Correct!
-pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+REDACTED
 
 
 bandit14@bandit:~$ 

@@ -136,7 +136,7 @@ remote:
 remote: .oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.
 remote: 
 remote: Well done! Here is the password for the next level:
-remote: pWuj5jBQ6IgV0NXwiH6g1pXRF8S1YvbT 
+remote: REDACTED 
 remote: 
 remote: .oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.
 remote: 

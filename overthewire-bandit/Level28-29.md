@@ -73,7 +73,7 @@ Some notes for level29 of bandit.
 ## credentials
 
 - username: bandit29
-- password: Em7eGtqaMySwNFjCpwzzHhLhospOcdt0
+- password: REDACTED
 
 
 ```
@@ -111,7 +111,7 @@ Some notes for level29 of bandit.
 ## credentials
 
 - username: bandit29
-- password: Em7eGtqaMySwNFjCpwzzHhLhospOcdt0
+- password: REDACTED
 
 ```
 - commit: `fix info leak`

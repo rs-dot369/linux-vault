@@ -45,7 +45,7 @@ drwxrwxr-x 7 kali kali 4096 Aug 14 23:36 .git
                                                                                  
 ┌──(kali㉿kali)-[~/Desktop/overthewire]
 └─$ cat repo/README 
-The password to the next level is: y8Yd2ssKcpHpud7UvOSOxwamRMzIGIeQ
+The password to the next level is: REDACTED
 ```
 - We got the password of bandit28, next level.
 ## Key Takeaways / Concepts

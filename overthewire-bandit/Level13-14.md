@@ -45,7 +45,7 @@ drwxr-xr-x 150 root     root     4096 Jun 24 15:02 ..
 bandit14@bandit:~$ ls -al /etc/bandit_pass/bandit14 
 -r-------- 1 bandit14 bandit14 33 Jun 24 14:58 /etc/bandit_pass/bandit14
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
-aaWecNkG4FhxJQxz07uiwzVP6bJiYS65
+REDACTED
 ```
 ## Key Takeaways / Concepts
 * **SSH Key Authentication (`ssh -i`):** We can log into an SSH server using a private key instead of a password by specifying the identity file with the `-i` flag (e.g., `ssh -i keyfile user@host`).

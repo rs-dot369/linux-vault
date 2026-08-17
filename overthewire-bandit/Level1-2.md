@@ -51,7 +51,7 @@ drwxr-xr-x 150 root    root    4096 Jun 24 15:02 ..
 
 ```
 bandit1@bandit:~$ cat /home/bandit1/-
-PK8fYLZg2hnHSz83plBL1iEPKdD3QToB
+REDACTED
 ```
 
 We got the password for bandit2.

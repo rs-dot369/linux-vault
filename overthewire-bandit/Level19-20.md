@@ -36,7 +36,7 @@ bandit19@bandit:~$ ls -l /etc/bandit_pass/bandit20
 
 ```
 bandit19@bandit:~$ ./bandit20-do  cat /etc/bandit_pass/bandit20
-4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
+REDACTED
 ```
 - We got the password of bandit20, next level.
 ## Key Takeaways / Concepts

@@ -155,7 +155,7 @@ total 48
 bandit12@bandit:/tmp/tmp.QfX957uV0L$ file data8 
 data8: ASCII text
 bandit12@bandit:/tmp/tmp.QfX957uV0L$ cat data8 
-The password is qQYQiHOBPR8zR61qxYqX45quvihF2uzk
+The password is REDACTED
 ```
 - We got the password for next level, bandit13.
 ## Key Takeaways / Concepts

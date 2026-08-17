@@ -146,7 +146,7 @@ Some notes for bandit30 of bandit.
 ## credentials
 
 - username: bandit30
-- password: jq9Dfg2rXsfYsWMgFuKlXhphjdH7USgX
+- password: REDACTED
 
 ```
 - Okay, we got the password of bandit30, in this commit "`add data needed for development`", next level.

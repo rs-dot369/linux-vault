@@ -34,7 +34,7 @@ Plaintext
 ```
 Read: 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
 Password matches, sending next password
-bW9kBv5WC3P4yoDyf12LSdGuNz5ka6hY
+REDACTED
 ```
 
 ## Key Takeaways / Concepts

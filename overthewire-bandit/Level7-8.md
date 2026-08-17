@@ -28,7 +28,7 @@ drwxr-xr-x 150 root    root       4096 Jun 24 15:02 ..
 * After login, we can proceed, this time we need to read `data.txt`, we'll be using `grep` to filter the line.
 ```
 bandit7@bandit:~$ cat data.txt | grep "millionth"
-millionth       VR1ljMayciFxbnUokuQmJFw6QC9VKtub
+millionth       REDACTED
 bandit7@bandit:~$ 
 ```
 * We got the password for next level, bandt8.

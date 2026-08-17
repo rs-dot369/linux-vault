@@ -219,7 +219,7 @@ bandit21@bandit:/etc/cron.d$ ls -l /etc/bandit_pass/bandit22
 bandit21@bandit:/etc/cron.d$ ls -l /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 -rw-r--r-- 1 bandit22 bandit22 33 Aug  9 06:22 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 bandit21@bandit:/etc/cron.d$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
-RYVux2rHEm9tiXHmLFzuR7Vhx6AZQMEz
+REDACTED
 bandit21@bandit:/etc/cron.d$ echo "i think we got the password for next level"
 i think we got the password for next level
 bandit21@bandit:/etc/cron.d$ exit

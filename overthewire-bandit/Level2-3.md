@@ -46,7 +46,7 @@ drwxr-xr-x 150 root root 4096 Jun 24 15:02 ..
 * Reading the contents of the file
 ```
 bandit2@bandit:~$ cat /home/bandit2/--spaces\ in\ this\ filename--
-7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME
+REDACTED
 ```
 * We can move to the next level 3 to 4, i.e, level 3 with the password of bandit3.
 ## Key Takeaways / Concepts

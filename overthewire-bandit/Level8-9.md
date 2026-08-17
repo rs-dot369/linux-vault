@@ -29,7 +29,7 @@ drwxr-xr-x 150 root    root     4096 Jun 24 15:02 ..
 -  only line of text that occurs only once, means it's unique line, we can use `uniq` but `uniq` won't work unless data.txt is sorted, we have to use `sort`.
 ```
 bandit8@bandit:~$ cat /home/bandit8/data.txt | sort | uniq -u
-EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
+REDACTED
 bandit8@bandit:~$ 
 ```
 - We got the password for next level, bandit9.

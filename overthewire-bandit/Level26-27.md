@@ -88,7 +88,7 @@ bandit27
 - We can read the `/etc/bandit_pass/bandit27` for the password of bandit27.
 ```                         
 bandit26@bandit:~$ ./bandit27-do cat /etc/bandit_pass/bandit27
-STJLJBRRphMxKB392CT4iOr5CbzPU9ER                                                 
+REDACTED                                                 
 bandit26@bandit:~$
 bandit26@bandit:~$ ./bandit27-do ls -al /home/bandit27
 total 20                                                                         

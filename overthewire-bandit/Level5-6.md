@@ -71,7 +71,7 @@ bandit5@bandit:~$ find /home/bandit5/inhere -type f -size 1033c -not -executable
 bandit5@bandit:~$ find /home/bandit5/inhere -type f -size 1033c -not -executable -exec file {} + | grep ASCII
 /home/bandit5/inhere/maybehere07/.file2: ASCII text, with very long lines (1000)
 bandit5@bandit:~$ cat /home/bandit5/inhere/maybehere07/.file2
-pXa26xhMWaC2SvDotA4r9EgZkulOeSBW
+REDACTED
                                                                                bandit5@bandit:~$ 
 bandit5@bandit:~$ 
 ```

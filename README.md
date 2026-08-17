@@ -4,9 +4,10 @@ A centralized personal knowledge base and repository for Linux administration no
 ## 📁 Vault Structure 
 ```
 linux-vault/ 
-├── README.md    <-- Main repository overview 
-├── scripts/     <-- Bash automation scripts and utilities 
-├── notes/       <-- General Linux concepts, commands, and cheat sheets 
+├── README.md           <-- Main repository overview 
+├── scripts/            <-- Bash automation scripts and utilities 
+├── notes/              <-- General Linux concepts, commands, and cheat sheets 
+├── troubleshooting/    <-- Real-world Linux issues, debugging steps, and fixes
 └── overthewire-bandit/ <-- Walkthroughs and notes for OverTheWire: Bandit
 ```
 

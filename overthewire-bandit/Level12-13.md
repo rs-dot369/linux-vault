@@ -164,6 +164,7 @@ The password is REDACTED
 * **Iterative File Analysis (`file`):** When dealing with repeatedly compressed or archived files, extensions are often stripped. Using the `file` command at each step reveals the underlying structure (e.g., gzip, bzip2, tar) so you know which extraction utility (`gzip -d`, `bzip2 -d`, `tar -xf`) to apply next.
 
 Notes:
+
 • Gzip (.gz)
 - Function: Compresses a single file for smaller size.
 -  Compress: gzip file (creates file.gz)

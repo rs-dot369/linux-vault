@@ -14,7 +14,7 @@ ssh, nc, cat, bash, screen, tmux, Unix ‘job control’ (bg, fg, jobs, &, CTRL-
 Start a background listener on a port (e.g., `8080`) that pipes the current level's password (`bandit20`) when a connection is made:
 
 ```bash
-echo '4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA' | nc -l 8080 &
+echo 'REDACTED' | nc -l 8080 &
 ```
 
 ### 2. Run the setuid binary
@@ -32,7 +32,7 @@ Bash
 Plaintext
 
 ```
-Read: 4pIjcunZ0fK2vmp3IwfG8Vf7VhxD6pOA
+Read: REDACTED
 Password matches, sending next password
 REDACTED
 ```

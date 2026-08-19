@@ -122,15 +122,15 @@ alias l="ls -ltr"                  # Create shortcut alias for long commands
 ```
 
 ## 6. Compression & Archives (`zip`, `tar`, `gzip`)
-• Gzip (.gz)
+#### Gzip (.gz)
 - Function: Compresses a single file for smaller size.
 -  Compress: gzip file (creates file.gz)
 - Decompress: gzip -d file.gz (or gunzip file.gz)
-• Bzip2 (.bz2)
+#### Bzip2 (.bz2)
 - Function: Compresses a single file with higher compression than gzip (smaller size, slower speed).
 - Compress: bzip2 file (creates file.bz2)
 - Decompress: bzip2 -d file.bz2 (or bunzip2 file.bz2)
-• Tar (.tar)
+#### Tar (.tar)
 - Function: Bundles multiple files and folders into one archive (does not compress by itself).
 -  Create Archive: tar -cf archive.tar folder/
 - Extract Archive: tar -xf archive.tar

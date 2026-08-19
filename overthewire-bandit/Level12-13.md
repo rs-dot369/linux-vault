@@ -162,23 +162,3 @@ The password is REDACTED
 * **Reversing Hex Dumps (`xxd -r`):** The `xxd` command in reverse mode (`-r`) translates a hexadecimal text dump back into raw binary bytes, allowing you to restore obfuscated files to their original state. 
 * **Safe Working Directories (`mktemp -d`):** Creating a temporary directory via `mktemp -d` provides a secure, isolated sandbox inside `/tmp` with a randomized name, preventing permission errors and keeping your workspace clean. 
 * **Iterative File Analysis (`file`):** When dealing with repeatedly compressed or archived files, extensions are often stripped. Using the `file` command at each step reveals the underlying structure (e.g., gzip, bzip2, tar) so you know which extraction utility (`gzip -d`, `bzip2 -d`, `tar -xf`) to apply next.
-
-Notes:
-
-• Gzip (.gz)
-- Function: Compresses a single file for smaller size.
--  Compress: gzip file (creates file.gz)
-- Decompress: gzip -d file.gz (or gunzip file.gz)
-• Bzip2 (.bz2)
-- Function: Compresses a single file with higher compression than gzip (smaller size, slower speed).
-- Compress: bzip2 file (creates file.bz2)
-- Decompress: bzip2 -d file.bz2 (or bunzip2 file.bz2)
-• Tar (.tar)
-- Function: Bundles multiple files and folders into one archive (does not compress by itself).
--  Create Archive: tar -cf archive.tar folder/
-- Extract Archive: tar -xf archive.tar
-
-
-
-
-
